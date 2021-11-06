@@ -1,0 +1,20 @@
+{
+  "files": {
+    "goblin.py": [
+      {
+        "id": "4f094b53-10f1-4a3f-ad39-801bc4ccec72",
+        "line": 41,
+        "version": 33,
+        "index": 1434
+      }
+    ],
+    "main.py": [
+      {
+        "id": "788134ec-c848-427d-95a7-88dcd8c0ad73",
+        "line": 9,
+        "version": 34002,
+        "index": 64
+      }
+    ]
+  }
+}
